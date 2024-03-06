@@ -12,8 +12,8 @@ app = "app.main:start"
 [tool.poetry.dependencies]
 python = "^3.10"
 uvicorn = "^0.21.1"
-fastapi = "^0.95.0"
-langchain = "^0.0.126"
+fastapi = "^0.109.1"
+langchain = "^0.1.11"
 openai = "^0.27.2"
 faiss-cpu = "^1.7"
 
